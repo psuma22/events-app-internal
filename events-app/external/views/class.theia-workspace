@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "layouts"
+    },
+    {
+      "path": "file:///home/user101/events-app/external"
+    },
+    {
+      "path": "file:///home/user101/events-app/internal"
+    }
+  ],
+  "settings": {}
+}
