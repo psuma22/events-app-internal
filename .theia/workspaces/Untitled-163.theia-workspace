@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "file:///"
+    },
+    {
+      "path": "file:///home/user101/events-app/external"
+    }
+  ],
+  "settings": {}
+}
