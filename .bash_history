@@ -34,3 +34,8 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/psuma22/events-app-internal.git
 git push -u origin main
+it init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/psuma22/events-app-external.git
+git push -u origin main
