@@ -19,3 +19,8 @@ git config --global user.email "sumavarshini770@gmail.com"
 git config --global user.name "psuma.22"
 git config --global init.defaultBranch main
 git config --global --list
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/psuma22/events-app-internal.git
+git push -u origin main
